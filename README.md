@@ -11,7 +11,7 @@ This repository contains Programs in the R Programming Language.<br><br>
 
 ---
 
-<h1>Modes of Executions</h1>
+# Modes of Executions
 Rprogramming language can be executed in the following two modes:
 <h2>1. Interactive mode</h2>
 <h3>a) R Studio</h3>
@@ -73,5 +73,7 @@ Some of the most common data types in R are:
 
 ---
 # Libraries of R
+
+To install R library this command is used- install.packages(library_name) <br><br>
 
 <img src="https://github.com/madhurimarawat/R-for-Datascience/assets/105432776/3ed5f9fc-b8ad-4c17-a730-f4ef59e5a303" height=400 width=680 title="Libraries-of-R-programming" alt="Libraries-of-R-programming">
