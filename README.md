@@ -48,6 +48,18 @@ Some of the most common data types in R are:
 <img src="https://github.com/madhurimarawat/R-for-Datascience/assets/105432776/f9942f22-3f51-42fc-ad5a-5be86e60e4f4" height=400 width=680 title="Features-of-R-programming" alt="Features-of-R-programming">
 
 ---
+# Mode of Execution Used:  <img src="https://logos-download.com/wp-content/uploads/2020/06/RStudio_Logo.png" title="R Studio" alt="R Studio" width="40" height="40">
+<h2>R</h2>
+--> Visit the official website: <a href="https://www.r-project.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R Language" alt="R" width="40" height="40"> </a> <br> <br>
+--> Download according to the platform that will be used like Linux, Macos or Windows.<br><br>
+--> Follow the setup wizard.<br>
+<h2>R Studio</h2>
+--> Visit the official website: <a href="https://www.rstudio.com/categories/rstudio-ide/"> <img src="https://logos-download.com/wp-content/uploads/2020/06/RStudio_Logo.png" title="R Studio" alt="R Studio" width="40" height="40"></a> <br> <br>
+--> Download according to the platform that will be used like Linux, Macos or Windows.<br><br>
+--> Follow the setup wizard.<br><br>
+--> Create a new file with the extention of .r and then this file can be executed in the console.
+
+---
  # Dataset Used
 
  <h2>Iris Dataset</h2>
