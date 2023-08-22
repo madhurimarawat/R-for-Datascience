@@ -86,8 +86,10 @@ Some of the most common data types in R are:
 ---
 # Libraries of R
 
-To install R library this command is used- install.packages(library_name) <br><br>
-
+To install R library this command is used-<br>
+```
+install.packages(library_name)
+```
 <img src="https://github.com/madhurimarawat/R-for-Datascience/assets/105432776/3ed5f9fc-b8ad-4c17-a730-f4ef59e5a303" height=400 width=680 title="Libraries-of-R-programming" alt="Libraries-of-R-programming">
 
 ---
