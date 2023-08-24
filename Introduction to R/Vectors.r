@@ -1,9 +1,12 @@
 # Vectors in R
 
-# vector is a 1d linear homogeneous data structure in R
+# Vectors are of two types
+# 1. Atomic Vectors-Sequence of same data type that share the same data type.
+# 2. List- Lists are a "recursive" type (of vector), i.e list can hold non-homogeneous data type.
 
-# creating a vector
-# c-combine operator
+# Vector is a 1d linear homogeneous data structure in R
+
+# Creating a vector- c(combine operator) is used
 
 vec1<-c(1,5,9,8)
 print(vec1)
