@@ -30,15 +30,21 @@ R data types are the essential features that accept and store various data types
 
 Some of the most common data types in R are:
 <ol>
-<li>Numeric: Decimal numbers like 10.5, 55, 787.</li>
-<li>Integer: Whole numbers like 1L, 55L, and 100L (the letter “L” declares this as an integer).</li>
-<li>Character: Strings of text like “hello”, “R”, and “data”.</li>
-<li>Logical: Boolean values like TRUE or FALSE.</li>
-<li>Factor: Categorical variables like “red”, “green”, and “blue”.</li>
+<li>Numeric: Decimal numbers like 10.5, 55, 787.</li>  <br>
+<li>Integer: Whole numbers like 1L, 55L, and 100L (the letter “L” declares this as an integer).</li> <br>
+<li>Character: Strings of text like “hello”, “R”, and “data”.</li> <br>
+<li>Logical: Boolean values like TRUE or FALSE.</li> <br>
+<li>Factor: Categorical variables like “red”, “green”, and “blue”.</li> <br>
 <li>Vector: A collection of elements of the same data type like c(1,2,3) or c(“a”,“b”,“c”).</li>
-<li>Matrix: A two-dimensional array of elements of the same data type like matrix(1:9,nrow=3).</li>
-<li>Data frame: A table-like structure with rows and columns that can have different data types like data.frame(name=c(“Alice”,“Bob”),age=c(25,30)).</li>
-<li>List: It is a collection of elements that can have different data types like list(name=“Alice”,age=25,scores=c(90,80,70)).</li>
+<br> <p> Vectors are of two types</p>
+ <ol>
+  <li>Atomic Vectors-Sequence of same data type that share the same data type. </li>
+  <li>List- Lists are a "recursive" type (of vector), i.e list can hold non-homogeneous data type.</li>
+ </ol>
+ <br>
+<li>Matrix: A two-dimensional array of elements of the same data type like matrix(1:9,nrow=3).</li>  <br>
+<li>Data frame: A table-like structure with rows and columns that can have different data types like data.frame(name=c(“Alice”,“Bob”),age=c(25,30)).</li>  <br>
+<li>List: It is a collection of elements that can have different data types like list(name=“Alice”,age=25,scores=c(90,80,70)).</li>  <br>
  <li>Array: It is a list or vector with two or more dimensions. An array is like a stacked matrix; a matrix is a two-dimensional array.</li>
 </ol>
 
